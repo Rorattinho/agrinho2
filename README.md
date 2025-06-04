@@ -8,11 +8,11 @@ A energia é um dos pilares fundamentais para o desenvolvimento tanto das áreas
 
 Principais tópicos:
 
-Energia solar no campo
+Acessibilidade da água 
 
-Biomassa e biocombustíveis
+Energia rural
 
-Energia e sustentabilidade rural
+Produção e indústrialização 
 
 Soluções inovadoras para pequenos produtores
 
