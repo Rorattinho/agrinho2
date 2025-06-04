@@ -12,7 +12,7 @@ Acessibilidade da água
 
 Energia rural
 
-Produção e indústrialização 
+Produção
 
 Soluções inovadoras para pequenos produtores
 
