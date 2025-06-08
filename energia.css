@@ -1,22 +1,46 @@
-.cabecalho{
+.cabecalho {
     color: rgb(226, 226, 220);
     background-color: rgb(35, 134, 26);
     text-align: center;
     padding: 30px;
 }
 
-.cabecalho h3{
+.cabecalho h3 {
     color: rgb(5, 37, 73);
 }
 
-body{
+body {
     padding: 0;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-.img-agro{
+
+.img-agro {
     width: 300px;
+    display: block;
+    margin: 0 auto; /* Centraliza a imagem */
 }
-.img-carrossel{
+
+.img-carrossel {
     max-height: 300px;
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative; /* Para garantir que o rodapé fique no final da página */
+    bottom: 0;
+    width: 100%;
 }
